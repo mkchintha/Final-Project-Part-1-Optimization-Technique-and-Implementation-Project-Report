@@ -16,8 +16,7 @@ Benchmarks validate the importance of cache locality and vectorization in HPC co
   - `results.csv` — benchmark data (mean runtime, std dev, energy, distance)
   - `speed_vs_N.png` — absolute runtime comparison
   - `speedup_vs_N.png` — relative speedup over baseline
-- `report/` — APA 7 formatted project report
-- `appendix/` — Word document with code, screenshots, and GitHub repo link
+
 
 ## Requirements
 - Python 3.9+
